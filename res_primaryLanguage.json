@@ -22,19 +22,19 @@
         "Linux",
         "AWS | DigitalOcean",
         "Apache | NGINX",
-        "MySQL",
+        "MySQL | PostgreSql",
         "Bitbucket | GitHub",
-        "Jenkins",
+        "Jenkins | codepipipeline",
         "CI/CD",
         "Docker | K8s",
         "Terraform"
       ]
     },
     {
-      "company": "Softgen infotech",
-      "website": "https://www.softgeninfotech.in/",
-      "title": "DevOps-Intern",
-      "years": "6M",
+      "company": "Akshaya CSC",
+      "website": "https://www.akshayakerala.gov.in/",
+      "title": "System Admin",
+      "years": "2Y",
       "mainTech": [
         "Linux | DevOps"
       ],
